@@ -46,7 +46,8 @@ The code is structured in the following way:
     ViewAccounts: 
     
     This method is used to view the existing bank accounts. 
-    It loops through the list of accounts and prints the account type and balance for each account that belongs to the user.
+    It loops through the list of accounts and prints the account type and 
+    balance for each account that belongs to the user.
     
     TransferBetweenAccounts: 
     
