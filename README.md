@@ -1,4 +1,4 @@
-# Bank-Application
+# Bank Application
 
 
 This is a bank application that allows a user to view and manage their bank accounts. The system is built using C#, and the console.
@@ -11,7 +11,8 @@ Features is
     
     
 
-## Getting Started 
+## Getting Started With The Bank Application
+
 
     Clone the repository to your local machine.
     
