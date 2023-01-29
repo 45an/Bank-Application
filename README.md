@@ -20,8 +20,24 @@ Features is
     
     Build and run the application.
 
+## Username & Pincodes for each Bank acccounts
 
-
+    Username: Muse 
+    Pincode: 1234
+    
+    Username: Krille 
+    Pincode: 6578
+    
+    Username: Mbappe 
+    Pincode: 9012
+    
+    Username: Alpha
+    Pincode: 2345
+    
+    Username: Sandra
+    Pincode: 6789
+    
+  
 
 ## Code Structure
 
